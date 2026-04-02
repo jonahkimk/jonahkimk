@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Jonah, a Junior Software Developer based in Kenya with a strong foundation in problem solving, system analysis and software development principles. Experienced in developing, testing, and implementing applications using modern programming frameworks and languages.
+I'm Jonah, a Software Developer based in Kenya with a strong foundation in problem solving, system analysis and software development principles. Experienced in developing, testing, and implementing applications using modern programming frameworks and languages.
 
 A willing and eager learner with a keen interest in building reliable software systems.
 
